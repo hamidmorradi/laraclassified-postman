@@ -479,4 +479,4 @@
 			"type": "string"
 		}
 	]
-}{"type":"text/javascript","exec":[""]}},{"listen":"test","script":{"type":"text/javascript","exec":[""]}}],"variable":[{"key":"DOMAIN","value":"https://github.com/hamidmorradi/laraclassified-postman","type":"string","enabled": true}]}
+}{"type":"text/javascript","exec":[""]}},{"listen":"test","script":{"type":"text/javascript","exec":[""]}}],"variable":[{"key":"DOMAIN","value":"https://laraclassified-postman-production.up.railway.app","type":"string","enabled":true}]}
