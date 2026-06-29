@@ -305,7 +305,7 @@ let ads = [
     "created_at": "2024-02-01T10:00:00.000000Z",
     "updated_at": "2024-02-01T10:00:00.000000Z",
     "user_id": 3,
-    "image": "https://raw.githubusercontent.com/hamidmorradi/laraclassified-postman/main/assets/images/s21 phone.png"
+    "image": "https://raw.githubusercontent.com/hamidmorradi/laraclassified-postman/main/assets/images/S21 phone.png"
   },
   {
     "id": 10,
