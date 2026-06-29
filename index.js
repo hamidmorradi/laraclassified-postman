@@ -73,7 +73,7 @@ let ads = [
     "created_at": "2024-01-10T08:00:00.000000Z",
     "updated_at": "2024-01-10T08:00:00.000000Z",
     "user_id": 1,
-    "image": "/assets/images/car.png"
+    "image": "https://raw.githubusercontent.com/hamidmorradi/laraclassified-postman/main/assets/images/car.png"
   },
   {
     "id": 2,
@@ -102,7 +102,7 @@ let ads = [
     "created_at": "2024-01-12T09:30:00.000000Z",
     "updated_at": "2024-01-12T09:30:00.000000Z",
     "user_id": 2,
-    "image": "/assets/images/home.png"
+    "image": "https://raw.githubusercontent.com/hamidmorradi/laraclassified-postman/main/assets/images/home.png"
   },
   {
     "id": 3,
@@ -131,7 +131,7 @@ let ads = [
     "created_at": "2024-01-15T11:00:00.000000Z",
     "updated_at": "2024-01-15T11:00:00.000000Z",
     "user_id": 3,
-    "image": "/assets/images/laptop Dell.png"
+    "image": "https://raw.githubusercontent.com/hamidmorradi/laraclassified-postman/main/assets/images/laptop Dell.png"
   },
   {
     "id": 4,
@@ -160,7 +160,7 @@ let ads = [
     "created_at": "2024-01-18T14:00:00.000000Z",
     "updated_at": "2024-01-18T14:00:00.000000Z",
     "user_id": 1,
-    "image": "/assets/images/R side.png"
+    "image": "https://raw.githubusercontent.com/hamidmorradi/laraclassified-postman/main/assets/images/R side.png"
   },
   {
     "id": 5,
@@ -189,7 +189,7 @@ let ads = [
     "created_at": "2024-01-20T10:00:00.000000Z",
     "updated_at": "2024-01-20T10:00:00.000000Z",
     "user_id": 2,
-    "image": "/assets/images/js course.png"
+    "image": "https://raw.githubusercontent.com/hamidmorradi/laraclassified-postman/main/assets/images/js course.png"
   },
   {
     "id": 6,
@@ -218,7 +218,7 @@ let ads = [
     "created_at": "2024-01-22T08:30:00.000000Z",
     "updated_at": "2024-01-22T08:30:00.000000Z",
     "user_id": 3,
-    "image": "/assets/images/clean code.png"
+    "image": "https://raw.githubusercontent.com/hamidmorradi/laraclassified-postman/main/assets/images/clean code.png"
   },
   {
     "id": 7,
@@ -247,7 +247,7 @@ let ads = [
     "created_at": "2024-01-25T13:00:00.000000Z",
     "updated_at": "2024-01-25T13:00:00.000000Z",
     "user_id": 1,
-    "image": "/assets/images/Bycycle.png"
+    "image": "https://raw.githubusercontent.com/hamidmorradi/laraclassified-postman/main/assets/images/Bycycle.png"
   },
   {
     "id": 8,
@@ -276,7 +276,7 @@ let ads = [
     "created_at": "2024-01-28T09:00:00.000000Z",
     "updated_at": "2024-01-28T09:00:00.000000Z",
     "user_id": 2,
-    "image": "/assets/images/site.png"
+    "image": "https://raw.githubusercontent.com/hamidmorradi/laraclassified-postman/main/assets/images/site.png"
   },
   {
     "id": 9,
@@ -305,7 +305,7 @@ let ads = [
     "created_at": "2024-02-01T10:00:00.000000Z",
     "updated_at": "2024-02-01T10:00:00.000000Z",
     "user_id": 3,
-    "image": "/assets/images/s21 phone.png"
+    "image": "https://raw.githubusercontent.com/hamidmorradi/laraclassified-postman/main/assets/images/s21 phone.png"
   },
   {
     "id": 10,
@@ -334,7 +334,7 @@ let ads = [
     "created_at": "2024-02-05T11:00:00.000000Z",
     "updated_at": "2024-02-05T11:00:00.000000Z",
     "user_id": 1,
-    "image": "/assets/images/sofa.png"
+    "image": "https://raw.githubusercontent.com/hamidmorradi/laraclassified-postman/main/assets/images/sofa.png"
   },
   {
     "id": 11,
@@ -363,7 +363,7 @@ let ads = [
     "created_at": "2024-02-08T08:00:00.000000Z",
     "updated_at": "2024-02-08T08:00:00.000000Z",
     "user_id": 1,
-    "image": "/assets/images/React course.png"
+    "image": "https://raw.githubusercontent.com/hamidmorradi/laraclassified-postman/main/assets/images/React course.png"
   },
   {
     "id": 12,
@@ -392,7 +392,7 @@ let ads = [
     "created_at": "2024-02-10T14:00:00.000000Z",
     "updated_at": "2024-02-10T14:00:00.000000Z",
     "user_id": 2,
-    "image": "/assets/images/Dog.png"
+    "image": "https://raw.githubusercontent.com/hamidmorradi/laraclassified-postman/main/assets/images/Dog.png"
   },
   {
     "id": 13,
@@ -421,7 +421,7 @@ let ads = [
     "created_at": "2024-02-12T09:00:00.000000Z",
     "updated_at": "2024-02-12T09:00:00.000000Z",
     "user_id": 3,
-    "image": "/assets/images/LG washing.png"
+    "image": "https://raw.githubusercontent.com/hamidmorradi/laraclassified-postman/main/assets/images/LG washing.png"
   },
   {
     "id": 14,
@@ -450,7 +450,7 @@ let ads = [
     "created_at": "2024-02-15T10:30:00.000000Z",
     "updated_at": "2024-02-15T10:30:00.000000Z",
     "user_id": 1,
-    "image": "/assets/images/Ipad.png"
+    "image": "https://raw.githubusercontent.com/hamidmorradi/laraclassified-postman/main/assets/images/Ipad.png"
   },
   {
     "id": 15,
@@ -479,7 +479,7 @@ let ads = [
     "created_at": "2024-02-18T08:00:00.000000Z",
     "updated_at": "2024-02-18T08:00:00.000000Z",
     "user_id": 1,
-    "image": "/assets/images/villa.png"
+    "image": "https://raw.githubusercontent.com/hamidmorradi/laraclassified-postman/main/assets/images/villa.png"
   }
 ];
 
