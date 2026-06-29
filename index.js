@@ -73,7 +73,7 @@ let ads = [
     "created_at": "2024-01-10T08:00:00.000000Z",
     "updated_at": "2024-01-10T08:00:00.000000Z",
     "user_id": 1,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ikco_Pride.jpg/400px-Ikco_Pride.jpg"
+    "image": "/assets/images/car.png"
   },
   {
     "id": 2,
@@ -102,7 +102,7 @@ let ads = [
     "created_at": "2024-01-12T09:30:00.000000Z",
     "updated_at": "2024-01-12T09:30:00.000000Z",
     "user_id": 2,
-    "image": "https://picsum.photos/seed/apartment-isfahan/400/300"
+    "image": "/assets/images/home.png"
   },
   {
     "id": 3,
@@ -131,7 +131,7 @@ let ads = [
     "created_at": "2024-01-15T11:00:00.000000Z",
     "updated_at": "2024-01-15T11:00:00.000000Z",
     "user_id": 3,
-    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=300&fit=crop"
+    "image": "/assets/images/laptop Dell.png"
   },
   {
     "id": 4,
@@ -160,7 +160,7 @@ let ads = [
     "created_at": "2024-01-18T14:00:00.000000Z",
     "updated_at": "2024-01-18T14:00:00.000000Z",
     "user_id": 1,
-    "image": "https://images.unsplash.com/photo-1588854337236-6889d631faa8?w=400&h=300&fit=crop"
+    "image": "/assets/images/R side.png"
   },
   {
     "id": 5,
@@ -189,7 +189,7 @@ let ads = [
     "created_at": "2024-01-20T10:00:00.000000Z",
     "updated_at": "2024-01-20T10:00:00.000000Z",
     "user_id": 2,
-    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&h=300&fit=crop"
+    "image": "/assets/images/js course.png"
   },
   {
     "id": 6,
@@ -218,7 +218,7 @@ let ads = [
     "created_at": "2024-01-22T08:30:00.000000Z",
     "updated_at": "2024-01-22T08:30:00.000000Z",
     "user_id": 3,
-    "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=300&fit=crop"
+    "image": "/assets/images/clean code.png"
   },
   {
     "id": 7,
@@ -247,7 +247,7 @@ let ads = [
     "created_at": "2024-01-25T13:00:00.000000Z",
     "updated_at": "2024-01-25T13:00:00.000000Z",
     "user_id": 1,
-    "image": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?w=400&h=300&fit=crop"
+    "image": "/assets/images/Bycycle.png"
   },
   {
     "id": 8,
@@ -276,7 +276,7 @@ let ads = [
     "created_at": "2024-01-28T09:00:00.000000Z",
     "updated_at": "2024-01-28T09:00:00.000000Z",
     "user_id": 2,
-    "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=400&h=300&fit=crop"
+    "image": "/assets/images/site.png"
   },
   {
     "id": 9,
@@ -305,7 +305,7 @@ let ads = [
     "created_at": "2024-02-01T10:00:00.000000Z",
     "updated_at": "2024-02-01T10:00:00.000000Z",
     "user_id": 3,
-    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400&h=300&fit=crop"
+    "image": "/assets/images/s21 phone.png"
   },
   {
     "id": 10,
@@ -334,7 +334,7 @@ let ads = [
     "created_at": "2024-02-05T11:00:00.000000Z",
     "updated_at": "2024-02-05T11:00:00.000000Z",
     "user_id": 1,
-    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400&h=300&fit=crop"
+    "image": "/assets/images/sofa.png"
   },
   {
     "id": 11,
@@ -363,7 +363,7 @@ let ads = [
     "created_at": "2024-02-08T08:00:00.000000Z",
     "updated_at": "2024-02-08T08:00:00.000000Z",
     "user_id": 1,
-    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=400&h=300&fit=crop"
+    "image": "/assets/images/React course.png"
   },
   {
     "id": 12,
@@ -392,7 +392,7 @@ let ads = [
     "created_at": "2024-02-10T14:00:00.000000Z",
     "updated_at": "2024-02-10T14:00:00.000000Z",
     "user_id": 2,
-    "image": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=400&h=300&fit=crop"
+    "image": "/assets/images/Dog.png"
   },
   {
     "id": 13,
@@ -421,7 +421,7 @@ let ads = [
     "created_at": "2024-02-12T09:00:00.000000Z",
     "updated_at": "2024-02-12T09:00:00.000000Z",
     "user_id": 3,
-    "image": "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?w=400&h=300&fit=crop"
+    "image": "/assets/images/LG washing.png"
   },
   {
     "id": 14,
@@ -450,7 +450,7 @@ let ads = [
     "created_at": "2024-02-15T10:30:00.000000Z",
     "updated_at": "2024-02-15T10:30:00.000000Z",
     "user_id": 1,
-    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400&h=300&fit=crop"
+    "image": "/assets/images/Ipad.png"
   },
   {
     "id": 15,
@@ -479,7 +479,7 @@ let ads = [
     "created_at": "2024-02-18T08:00:00.000000Z",
     "updated_at": "2024-02-18T08:00:00.000000Z",
     "user_id": 1,
-    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=400&h=300&fit=crop"
+    "image": "/assets/images/villa.png"
   }
 ];
 
